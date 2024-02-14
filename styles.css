@@ -1,9 +1,7 @@
-div
-{
+#topBanner {
     background-color: #000000;
     color: #ffffff;
     width: 100%;
     /* If you want it to stay at the top: */
     top: 0;
-    position: fixed;
 }
