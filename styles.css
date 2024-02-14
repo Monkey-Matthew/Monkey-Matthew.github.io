@@ -1,7 +1,7 @@
 #topBanner {
+    margin: 0;
     background-color: #000000;
     color: #ffffff;
-    margin: 0;
     width: 100%;
     /* If you want it to stay at the top: */
     top: 0;
