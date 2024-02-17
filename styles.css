@@ -1,9 +1,21 @@
-#topBanner {
+body {
     margin: 0;
-    background-color: #000000;
-    color: #ffffff;
-    width: 100%;
-    /* If you want it to stay at the top: */
-    top: 0;
-    position: fixed;
-}
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .banner {
+    background-color: #3498db; /* Change this to your desired background color */
+    color: #fff; /* Change this to your desired text color */
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .banner h1 {
+    margin: 0;
+  }
+  
+  .banner p {
+    margin: 10px 0;
+  }
+  
